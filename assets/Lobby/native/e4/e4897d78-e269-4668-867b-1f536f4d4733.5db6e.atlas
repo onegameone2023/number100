@@ -1,0 +1,27 @@
+
+fish-camap.png
+size: 1057, 272
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Layer 12
+  rotate: false
+  xy: 916, 126
+  size: 139, 144
+  orig: 143, 146
+  offset: 2, 1
+  index: -1
+Layer 16
+  rotate: true
+  xy: 2, 2
+  size: 268, 454
+  orig: 268, 454
+  offset: 0, 0
+  index: -1
+Rectangle 1
+  rotate: true
+  xy: 458, 4
+  size: 266, 456
+  orig: 268, 458
+  offset: 1, 1
+  index: -1

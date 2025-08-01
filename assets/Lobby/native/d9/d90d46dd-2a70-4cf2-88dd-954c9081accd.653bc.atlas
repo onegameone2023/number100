@@ -1,0 +1,27 @@
+
+casinogame-5.png
+size: 1024, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 227, 224
+  orig: 227, 224
+  offset: 0, 0
+  index: -1
+ho
+  rotate: true
+  xy: 444, 90
+  size: 136, 160
+  orig: 136, 160
+  offset: 0, 0
+  index: -1
+rong
+  rotate: false
+  xy: 231, 76
+  size: 211, 150
+  orig: 211, 150
+  offset: 0, 0
+  index: -1

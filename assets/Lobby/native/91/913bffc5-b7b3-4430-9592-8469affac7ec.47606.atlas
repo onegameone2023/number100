@@ -1,0 +1,27 @@
+
+slot-sodo.png
+size: 495, 231
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+bg
+  rotate: true
+  xy: 2, 2
+  size: 227, 456
+  orig: 231, 458
+  offset: 2, 1
+  index: -1
+w
+  rotate: false
+  xy: 460, 196
+  size: 33, 33
+  orig: 36, 36
+  offset: 1, 1
+  index: -1
+y
+  rotate: false
+  xy: 460, 170
+  size: 24, 24
+  orig: 26, 26
+  offset: 1, 1
+  index: -1

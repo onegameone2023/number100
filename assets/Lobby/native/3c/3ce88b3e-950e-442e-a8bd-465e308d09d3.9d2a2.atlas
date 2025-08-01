@@ -1,0 +1,55 @@
+
+cardgame-9.png
+size: 1024, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+a
+  rotate: true
+  xy: 223, 22
+  size: 121, 145
+  orig: 121, 145
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 2
+  size: 219, 224
+  orig: 219, 224
+  offset: 0, 0
+  index: -1
+chip
+  rotate: false
+  xy: 846, 136
+  size: 123, 90
+  orig: 123, 90
+  offset: 0, 0
+  index: -1
+k
+  rotate: true
+  xy: 717, 137
+  size: 89, 127
+  orig: 89, 127
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 589, 116
+  size: 126, 110
+  orig: 126, 110
+  offset: 0, 0
+  index: -1
+q
+  rotate: true
+  xy: 452, 96
+  size: 130, 135
+  orig: 130, 135
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: false
+  xy: 223, 145
+  size: 227, 81
+  orig: 227, 81
+  offset: 0, 0
+  index: -1

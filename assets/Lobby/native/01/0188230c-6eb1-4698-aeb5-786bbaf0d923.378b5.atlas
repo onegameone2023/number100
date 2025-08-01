@@ -1,0 +1,55 @@
+
+cardgame-7.png
+size: 1024, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+a1
+  rotate: false
+  xy: 223, 11
+  size: 105, 132
+  orig: 105, 132
+  offset: 0, 0
+  index: -1
+a2
+  rotate: true
+  xy: 584, 142
+  size: 84, 118
+  orig: 84, 118
+  offset: 0, 0
+  index: -1
+a3
+  rotate: true
+  xy: 452, 121
+  size: 105, 130
+  orig: 105, 130
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 2
+  size: 219, 224
+  orig: 219, 224
+  offset: 0, 0
+  index: -1
+chip
+  rotate: true
+  xy: 704, 134
+  size: 92, 94
+  orig: 92, 94
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 330, 17
+  size: 126, 110
+  orig: 126, 110
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: false
+  xy: 223, 145
+  size: 227, 81
+  orig: 227, 81
+  offset: 0, 0
+  index: -1

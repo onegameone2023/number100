@@ -1,0 +1,48 @@
+
+slot-vutruong.png
+size: 1161, 357
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Body
+  rotate: true
+  xy: 711, 217
+  size: 138, 448
+  orig: 138, 448
+  offset: 0, 0
+  index: -1
+Boy
+  rotate: true
+  xy: 257, 221
+  size: 134, 452
+  orig: 136, 454
+  offset: 1, 1
+  index: -1
+Frame
+  rotate: true
+  xy: 228, 6
+  size: 213, 456
+  orig: 215, 458
+  offset: 1, 1
+  index: -1
+Group 529
+  rotate: true
+  xy: 686, 2
+  size: 213, 456
+  orig: 215, 458
+  offset: 1, 1
+  index: -1
+Hand
+  rotate: true
+  xy: 2, 250
+  size: 105, 253
+  orig: 105, 253
+  offset: 0, 0
+  index: -1
+Light
+  rotate: true
+  xy: 2, 35
+  size: 213, 224
+  orig: 215, 237
+  offset: 1, 4
+  index: -1

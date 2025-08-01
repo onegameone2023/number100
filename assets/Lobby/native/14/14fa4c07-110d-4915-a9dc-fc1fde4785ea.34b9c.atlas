@@ -1,0 +1,41 @@
+
+lottery-megam.png
+size: 623, 217
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+b
+  rotate: false
+  xy: 548, 83
+  size: 58, 57
+  orig: 60, 59
+  offset: 1, 1
+  index: -1
+bg
+  rotate: true
+  xy: 2, 2
+  size: 213, 456
+  orig: 215, 458
+  offset: 1, 1
+  index: -1
+g
+  rotate: false
+  xy: 548, 142
+  size: 73, 73
+  orig: 75, 75
+  offset: 1, 1
+  index: -1
+logo
+  rotate: true
+  xy: 460, 35
+  size: 180, 86
+  orig: 182, 89
+  offset: 1, 2
+  index: -1
+r
+  rotate: false
+  xy: 548, 32
+  size: 49, 49
+  orig: 51, 51
+  offset: 1, 1
+  index: -1

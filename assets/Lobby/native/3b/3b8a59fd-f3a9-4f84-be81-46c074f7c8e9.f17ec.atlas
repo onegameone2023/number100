@@ -1,0 +1,41 @@
+
+fish-longvuong.png
+size: 1382, 261
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Group 4
+  rotate: true
+  xy: 2, 2
+  size: 257, 127
+  orig: 270, 137
+  offset: 12, 7
+  index: -1
+Layer 87
+  rotate: true
+  xy: 131, 21
+  size: 238, 400
+  orig: 238, 400
+  offset: 0, 0
+  index: -1
+Rectangle 1
+  rotate: true
+  xy: 753, 46
+  size: 213, 456
+  orig: 215, 458
+  offset: 1, 1
+  index: -1
+ca
+  rotate: true
+  xy: 1211, 67
+  size: 192, 169
+  orig: 194, 172
+  offset: 1, 2
+  index: -1
+wave
+  rotate: false
+  xy: 533, 39
+  size: 218, 220
+  orig: 220, 243
+  offset: 1, 22
+  index: -1

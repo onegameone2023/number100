@@ -1,0 +1,76 @@
+
+slot-vuongquoc.png
+size: 420, 553
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Bg
+  rotate: false
+  xy: 2, 95
+  size: 213, 456
+  orig: 215, 458
+  offset: 1, 1
+  index: -1
+DAU
+  rotate: true
+  xy: 217, 383
+  size: 168, 166
+  orig: 168, 177
+  offset: 0, 11
+  index: -1
+HandL
+  rotate: false
+  xy: 114, 17
+  size: 111, 76
+  orig: 111, 87
+  offset: 0, 11
+  index: -1
+HandR
+  rotate: true
+  xy: 346, 9
+  size: 105, 64
+  orig: 105, 64
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: true
+  xy: 217, 222
+  size: 159, 151
+  orig: 164, 166
+  offset: 2, 12
+  index: -1
+Potion1
+  rotate: false
+  xy: 346, 116
+  size: 72, 104
+  orig: 80, 106
+  offset: 1, 1
+  index: -1
+Potion2
+  rotate: false
+  xy: 370, 319
+  size: 43, 62
+  orig: 45, 64
+  offset: 1, 1
+  index: -1
+Pumpkin
+  rotate: false
+  xy: 217, 102
+  size: 127, 118
+  orig: 130, 129
+  offset: 2, 1
+  index: -1
+RAP VAI NGOAI
+  rotate: true
+  xy: 2, 10
+  size: 83, 110
+  orig: 85, 112
+  offset: 1, 1
+  index: -1
+RAP VAI TRONG
+  rotate: true
+  xy: 227, 2
+  size: 98, 104
+  orig: 100, 107
+  offset: 1, 2
+  index: -1

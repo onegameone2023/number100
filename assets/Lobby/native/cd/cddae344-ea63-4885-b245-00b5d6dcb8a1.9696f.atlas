@@ -1,0 +1,34 @@
+
+tour-poker.png
+size: 426, 229
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+A
+  rotate: false
+  xy: 221, 14
+  size: 104, 128
+  orig: 106, 130
+  offset: 1, 1
+  index: -1
+Group 529
+  rotate: false
+  xy: 221, 144
+  size: 203, 83
+  orig: 205, 86
+  offset: 1, 2
+  index: -1
+K
+  rotate: false
+  xy: 327, 24
+  size: 95, 118
+  orig: 97, 120
+  offset: 1, 1
+  index: -1
+Layer 4
+  rotate: false
+  xy: 2, 2
+  size: 217, 225
+  orig: 219, 228
+  offset: 1, 2
+  index: -1

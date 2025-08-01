@@ -1,0 +1,55 @@
+
+fish-cakiem.png
+size: 370, 433
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+CA NHO
+  rotate: true
+  xy: 225, 248
+  size: 74, 87
+  orig: 76, 89
+  offset: 1, 1
+  index: -1
+Layer 1
+  rotate: false
+  xy: 2, 2
+  size: 179, 212
+  orig: 181, 214
+  offset: 1, 1
+  index: -1
+Layer 2
+  rotate: true
+  xy: 183, 7
+  size: 207, 183
+  orig: 211, 186
+  offset: 2, 2
+  index: -1
+Layer 3
+  rotate: false
+  xy: 225, 324
+  size: 134, 107
+  orig: 136, 109
+  offset: 1, 1
+  index: -1
+Layer 4
+  rotate: true
+  xy: 314, 269
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+border
+  rotate: true
+  xy: 2, 216
+  size: 215, 221
+  orig: 219, 224
+  offset: 2, 2
+  index: -1
+eye
+  rotate: false
+  xy: 314, 244
+  size: 31, 23
+  orig: 33, 25
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,55 @@
+
+slot-12.png
+size: 1024, 512
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 258, 267
+  size: 223, 243
+  orig: 223, 243
+  offset: 0, 0
+  index: -1
+Vector Smart Object
+  rotate: true
+  xy: 483, 393
+  size: 117, 245
+  orig: 117, 245
+  offset: 0, 0
+  index: -1
+berry
+  rotate: false
+  xy: 258, 2
+  size: 87, 81
+  orig: 87, 81
+  offset: 0, 0
+  index: -1
+berry light
+  rotate: false
+  xy: 258, 85
+  size: 120, 180
+  orig: 120, 180
+  offset: 0, 0
+  index: -1
+book
+  rotate: true
+  xy: 483, 251
+  size: 140, 158
+  orig: 140, 158
+  offset: 0, 0
+  index: -1
+grass
+  rotate: false
+  xy: 730, 430
+  size: 122, 80
+  orig: 122, 80
+  offset: 0, 0
+  index: -1
+mush3
+  rotate: false
+  xy: 2, 32
+  size: 254, 478
+  orig: 254, 478
+  offset: 0, 0
+  index: -1

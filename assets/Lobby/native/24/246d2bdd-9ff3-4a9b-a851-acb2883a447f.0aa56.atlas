@@ -1,0 +1,41 @@
+
+casinogame-6.png
+size: 1024, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+7
+  rotate: false
+  xy: 223, 2
+  size: 117, 141
+  orig: 117, 141
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 2
+  size: 219, 224
+  orig: 219, 224
+  offset: 0, 0
+  index: -1
+k
+  rotate: false
+  xy: 342, 10
+  size: 104, 133
+  orig: 104, 133
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 452, 116
+  size: 126, 110
+  orig: 126, 110
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: false
+  xy: 223, 145
+  size: 227, 81
+  orig: 227, 81
+  offset: 0, 0
+  index: -1

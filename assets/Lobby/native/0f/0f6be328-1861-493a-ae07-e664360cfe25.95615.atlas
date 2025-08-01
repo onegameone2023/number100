@@ -1,0 +1,69 @@
+
+cardgame-4.png
+size: 1024, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+A
+  rotate: false
+  xy: 223, 9
+  size: 110, 134
+  orig: 110, 134
+  offset: 0, 0
+  index: -1
+J
+  rotate: true
+  xy: 826, 139
+  size: 87, 107
+  orig: 87, 107
+  offset: 0, 0
+  index: -1
+K
+  rotate: true
+  xy: 705, 138
+  size: 88, 119
+  orig: 88, 119
+  offset: 0, 0
+  index: -1
+Q
+  rotate: true
+  xy: 584, 135
+  size: 91, 119
+  orig: 91, 119
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 2
+  size: 219, 224
+  orig: 219, 224
+  offset: 0, 0
+  index: -1
+coin
+  rotate: true
+  xy: 452, 127
+  size: 99, 130
+  orig: 99, 130
+  offset: 0, 0
+  index: -1
+light1
+  rotate: true
+  xy: 335, 17
+  size: 126, 110
+  orig: 126, 110
+  offset: 0, 0
+  index: -1
+light2
+  rotate: true
+  xy: 335, 17
+  size: 126, 110
+  orig: 126, 110
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: false
+  xy: 223, 145
+  size: 227, 81
+  orig: 227, 81
+  offset: 0, 0
+  index: -1

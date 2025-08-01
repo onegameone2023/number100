@@ -1,0 +1,48 @@
+
+fish-phidoi.png
+size: 974, 218
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Group 482
+  rotate: true
+  xy: 2, 3
+  size: 213, 456
+  orig: 215, 458
+  offset: 1, 1
+  index: -1
+Group 517
+  rotate: false
+  xy: 893, 27
+  size: 73, 51
+  orig: 76, 53
+  offset: 1, 1
+  index: -1
+Group 519
+  rotate: true
+  xy: 695, 60
+  size: 156, 196
+  orig: 158, 211
+  offset: 1, 1
+  index: -1
+Layer 11
+  rotate: true
+  xy: 893, 80
+  size: 136, 79
+  orig: 140, 83
+  offset: 1, 2
+  index: -1
+Layer 7
+  rotate: false
+  xy: 460, 4
+  size: 233, 212
+  orig: 235, 214
+  offset: 1, 1
+  index: -1
+light
+  rotate: true
+  xy: 695, 2
+  size: 56, 136
+  orig: 58, 138
+  offset: 1, 1
+  index: -1

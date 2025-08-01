@@ -1,0 +1,27 @@
+
+lottery-xoso.png
+size: 543, 217
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Layer 1
+  rotate: true
+  xy: 2, 2
+  size: 213, 456
+  orig: 215, 458
+  offset: 1, 1
+  index: -1
+l2
+  rotate: false
+  xy: 460, 29
+  size: 81, 85
+  orig: 85, 92
+  offset: 2, 3
+  index: -1
+light
+  rotate: false
+  xy: 460, 116
+  size: 78, 99
+  orig: 80, 101
+  offset: 1, 1
+  index: -1

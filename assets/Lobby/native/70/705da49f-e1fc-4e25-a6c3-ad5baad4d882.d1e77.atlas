@@ -1,0 +1,48 @@
+
+cardgame-2.png
+size: 1024, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+A
+  rotate: true
+  xy: 452, 116
+  size: 115, 153
+  orig: 115, 153
+  offset: 0, 0
+  index: -1
+Bg
+  rotate: false
+  xy: 2, 7
+  size: 219, 224
+  orig: 219, 224
+  offset: 0, 0
+  index: -1
+K
+  rotate: true
+  xy: 607, 112
+  size: 119, 147
+  orig: 119, 147
+  offset: 0, 0
+  index: -1
+coin
+  rotate: false
+  xy: 223, 2
+  size: 155, 146
+  orig: 155, 146
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 756, 121
+  size: 126, 110
+  orig: 126, 110
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: false
+  xy: 223, 150
+  size: 227, 81
+  orig: 227, 81
+  offset: 0, 0
+  index: -1

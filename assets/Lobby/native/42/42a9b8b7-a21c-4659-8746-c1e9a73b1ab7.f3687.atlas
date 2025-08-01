@@ -1,0 +1,62 @@
+
+cardgame-3.png
+size: 1024, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+0b9e0c66dee08ae39a65c3267b73804a7e5edc8018abb-7XZjVy
+  rotate: false
+  xy: 775, 149
+  size: 101, 77
+  orig: 101, 77
+  offset: 0, 0
+  index: -1
+A11
+  rotate: true
+  xy: 564, 140
+  size: 86, 105
+  orig: 86, 105
+  offset: 0, 0
+  index: -1
+A12
+  rotate: true
+  xy: 671, 131
+  size: 95, 102
+  orig: 95, 102
+  offset: 0, 0
+  index: -1
+A13
+  rotate: true
+  xy: 452, 146
+  size: 80, 110
+  orig: 80, 110
+  offset: 0, 0
+  index: -1
+A14
+  rotate: false
+  xy: 351, 27
+  size: 88, 116
+  orig: 88, 116
+  offset: 0, 0
+  index: -1
+Layer 660
+  rotate: false
+  xy: 223, 145
+  size: 227, 81
+  orig: 227, 81
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 2
+  size: 219, 224
+  orig: 219, 224
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 223, 33
+  size: 126, 110
+  orig: 126, 110
+  offset: 0, 0
+  index: -1

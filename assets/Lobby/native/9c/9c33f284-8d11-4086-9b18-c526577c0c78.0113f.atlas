@@ -1,0 +1,48 @@
+
+casinogame-2.png
+size: 1024, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 2
+  size: 219, 224
+  orig: 219, 224
+  offset: 0, 0
+  index: -1
+d1
+  rotate: false
+  xy: 612, 149
+  size: 77, 77
+  orig: 77, 77
+  offset: 0, 0
+  index: -1
+d2
+  rotate: false
+  xy: 383, 68
+  size: 72, 75
+  orig: 72, 75
+  offset: 0, 0
+  index: -1
+d3
+  rotate: false
+  xy: 223, 8
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 223, 68
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: false
+  xy: 383, 145
+  size: 227, 81
+  orig: 227, 81
+  offset: 0, 0
+  index: -1

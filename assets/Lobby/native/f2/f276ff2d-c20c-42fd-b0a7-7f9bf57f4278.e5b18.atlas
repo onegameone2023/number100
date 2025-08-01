@@ -1,0 +1,27 @@
+
+tour-ott.png
+size: 219, 524
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Layer 5
+  rotate: true
+  xy: 2, 225
+  size: 148, 200
+  orig: 148, 200
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: true
+  xy: 2, 375
+  size: 147, 200
+  orig: 147, 200
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 2
+  size: 215, 221
+  orig: 219, 224
+  offset: 2, 2
+  index: -1

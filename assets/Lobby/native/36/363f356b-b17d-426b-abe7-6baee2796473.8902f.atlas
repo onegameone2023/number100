@@ -1,0 +1,41 @@
+
+casinogame-4.png
+size: 512, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+bg
+  rotate: false
+  xy: 85, 22
+  size: 219, 224
+  orig: 219, 224
+  offset: 0, 0
+  index: -1
+coin
+  rotate: true
+  xy: 418, 19
+  size: 109, 88
+  orig: 109, 88
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 306, 2
+  size: 126, 110
+  orig: 126, 110
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: true
+  xy: 2, 19
+  size: 227, 81
+  orig: 227, 81
+  offset: 0, 0
+  index: -1
+roulette
+  rotate: false
+  xy: 306, 130
+  size: 178, 116
+  orig: 178, 116
+  offset: 0, 0
+  index: -1

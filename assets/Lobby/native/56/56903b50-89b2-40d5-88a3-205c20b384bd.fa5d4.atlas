@@ -1,0 +1,146 @@
+
+slot-5.png
+size: 2048, 256
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+BAN TAY NGOAI
+  rotate: false
+  xy: 1389, 144
+  size: 116, 110
+  orig: 116, 110
+  offset: 0, 0
+  index: -1
+BAN TAY TRONG
+  rotate: false
+  xy: 1111, 149
+  size: 144, 105
+  orig: 144, 105
+  offset: 0, 0
+  index: -1
+BONG GIAY
+  rotate: false
+  xy: 968, 76
+  size: 61, 46
+  orig: 61, 46
+  offset: 0, 0
+  index: -1
+GIAY NGOAI
+  rotate: false
+  xy: 968, 124
+  size: 141, 130
+  orig: 141, 130
+  offset: 0, 0
+  index: -1
+Hue/Saturation 3
+  rotate: true
+  xy: 2, 6
+  size: 248, 479
+  orig: 248, 479
+  offset: 0, 0
+  index: -1
+KHUON MAT
+  rotate: true
+  xy: 735, 75
+  size: 179, 231
+  orig: 179, 231
+  offset: 0, 0
+  index: -1
+Layer 785
+  rotate: false
+  xy: 1111, 129
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+Layer 786
+  rotate: true
+  xy: 1556, 181
+  size: 19, 12
+  orig: 19, 12
+  offset: 0, 0
+  index: -1
+Layer 789
+  rotate: false
+  xy: 1575, 203
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+Layer 793
+  rotate: false
+  xy: 483, 86
+  size: 250, 168
+  orig: 250, 168
+  offset: 0, 0
+  index: -1
+Layer 89 copy
+  rotate: false
+  xy: 1507, 155
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+Layer 89 copy 17
+  rotate: false
+  xy: 549, 36
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1
+Layer 89 copy 3
+  rotate: false
+  xy: 1031, 88
+  size: 30, 34
+  orig: 30, 34
+  offset: 0, 0
+  index: -1
+Layer 89 copy 4
+  rotate: false
+  xy: 605, 54
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+Layer 89 copy 6
+  rotate: false
+  xy: 549, 2
+  size: 48, 32
+  orig: 48, 32
+  offset: 0, 0
+  index: -1
+Layer 89 copy 8
+  rotate: false
+  xy: 1575, 217
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+THAN
+  rotate: false
+  xy: 1257, 142
+  size: 130, 112
+  orig: 130, 112
+  offset: 0, 0
+  index: -1
+THOI VANG NHO
+  rotate: false
+  xy: 1507, 202
+  size: 66, 52
+  orig: 66, 52
+  offset: 0, 0
+  index: -1
+TIEN
+  rotate: false
+  xy: 1612, 231
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+TIEN 1
+  rotate: false
+  xy: 483, 17
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1

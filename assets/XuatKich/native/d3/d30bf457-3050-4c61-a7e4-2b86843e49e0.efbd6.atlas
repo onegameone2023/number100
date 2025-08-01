@@ -1,0 +1,62 @@
+
+Danger.png
+size: 1990, 1450
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+B-2
+  rotate: false
+  xy: 2, 8
+  size: 1056, 470
+  orig: 1059, 474
+  offset: 1, 2
+  index: -1
+Boss
+  rotate: false
+  xy: 1060, 29
+  size: 790, 449
+  orig: 800, 467
+  offset: 5, 9
+  index: -1
+DangerRect
+  rotate: false
+  xy: 2, 480
+  size: 1920, 408
+  orig: 1922, 410
+  offset: 1, 1
+  index: -1
+DangerShow
+  rotate: false
+  xy: 2, 890
+  size: 1920, 558
+  orig: 1922, 630
+  offset: 1, 19
+  index: -1
+arrow_1
+  rotate: false
+  xy: 1852, 216
+  size: 136, 108
+  orig: 158, 123
+  offset: 9, 8
+  index: -1
+arrow_2
+  rotate: false
+  xy: 1852, 2
+  size: 100, 104
+  orig: 171, 118
+  offset: 64, 6
+  index: -1
+arrow_3
+  rotate: true
+  xy: 1852, 326
+  size: 152, 126
+  orig: 169, 141
+  offset: 9, 7
+  index: -1
+arrow_4
+  rotate: true
+  xy: 1852, 108
+  size: 106, 110
+  orig: 124, 130
+  offset: 7, 10
+  index: -1

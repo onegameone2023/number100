@@ -1,0 +1,62 @@
+
+slot-gainhay.png
+size: 1287, 235
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+ArmL
+  rotate: true
+  xy: 1139, 2
+  size: 32, 146
+  orig: 34, 148
+  offset: 1, 1
+  index: -1
+ArmR
+  rotate: true
+  xy: 715, 6
+  size: 50, 134
+  orig: 52, 136
+  offset: 1, 1
+  index: -1
+Bg
+  rotate: true
+  xy: 2, 20
+  size: 213, 456
+  orig: 215, 458
+  offset: 1, 1
+  index: -1
+Body
+  rotate: true
+  xy: 715, 58
+  size: 175, 454
+  orig: 175, 454
+  offset: 0, 0
+  index: -1
+Group 1
+  rotate: true
+  xy: 1171, 36
+  size: 197, 87
+  orig: 199, 95
+  offset: 1, 1
+  index: -1
+HandL
+  rotate: true
+  xy: 989, 14
+  size: 42, 148
+  orig: 42, 148
+  offset: 0, 0
+  index: -1
+HandR
+  rotate: true
+  xy: 851, 8
+  size: 48, 136
+  orig: 48, 136
+  offset: 0, 0
+  index: -1
+Light
+  rotate: true
+  xy: 460, 20
+  size: 213, 253
+  orig: 215, 302
+  offset: 1, 1
+  index: -1
