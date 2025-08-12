@@ -1,0 +1,27 @@
+
+RongHoLive.png
+size: 540, 219
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Group 571
+  rotate: false
+  xy: 462, 140
+  size: 76, 77
+  orig: 78, 79
+  offset: 1, 1
+  index: -1
+Group 572
+  rotate: false
+  xy: 462, 67
+  size: 67, 71
+  orig: 69, 74
+  offset: 1, 2
+  index: -1
+bg-rhlive
+  rotate: true
+  xy: 2, 2
+  size: 215, 458
+  orig: 215, 458
+  offset: 0, 0
+  index: -1

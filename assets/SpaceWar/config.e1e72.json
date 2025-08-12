@@ -1,0 +1,65 @@
+{
+    "importBase": "import",
+    "nativeBase": "native",
+    "name": "SpaceWar",
+    "deps": [
+        "internal"
+    ],
+    "uuids": [
+        "018789607",
+        "0c60b3e6c",
+        "0e27ecd4-1872-461d-addf-9c304ab05c5e",
+        "35a3c539-029d-4904-9da3-a316a02ad4e5",
+        "35a3c539-029d-4904-9da3-a316a02ad4e5@6c48a",
+        "35a3c539-029d-4904-9da3-a316a02ad4e5@f9941",
+        "3e8c46dc-c9f3-4947-bff4-d3012db41690",
+        "3e8c46dc-c9f3-4947-bff4-d3012db41690@6c48a",
+        "3e8c46dc-c9f3-4947-bff4-d3012db41690@f9941",
+        "fda095cb-831d-4601-ad94-846013963de8"
+    ],
+    "paths": {
+        "0e27ecd4-1872-461d-addf-9c304ab05c5e": [
+            "prefabs/SpaceWar",
+            "cc.Prefab",
+            1
+        ]
+    },
+    "scenes": {},
+    "packs": {
+        "0c60b3e6c": [
+            "3e8c46dc-c9f3-4947-bff4-d3012db41690@6c48a",
+            "35a3c539-029d-4904-9da3-a316a02ad4e5@6c48a"
+        ],
+        "018789607": [
+            "0e27ecd4-1872-461d-addf-9c304ab05c5e",
+            "35a3c539-029d-4904-9da3-a316a02ad4e5@f9941",
+            "3e8c46dc-c9f3-4947-bff4-d3012db41690@f9941"
+        ]
+    },
+    "versions": {
+        "import": [
+            "018789607",
+            "828dc",
+            "0c60b3e6c",
+            "7730c",
+            "35a3c539-029d-4904-9da3-a316a02ad4e5",
+            "a2533",
+            "3e8c46dc-c9f3-4947-bff4-d3012db41690",
+            "a2533"
+        ],
+        "native": [
+            "35a3c539-029d-4904-9da3-a316a02ad4e5",
+            "01d27",
+            "3e8c46dc-c9f3-4947-bff4-d3012db41690",
+            "e8993"
+        ]
+    },
+    "redirect": [
+        "fda095cb-831d-4601-ad94-846013963de8",
+        "0"
+    ],
+    "debug": true,
+    "extensionMap": {},
+    "hasPreloadScript": true,
+    "dependencyRelationships": {}
+}

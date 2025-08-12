@@ -1,0 +1,55 @@
+
+XDMD5.png
+size: 896, 217
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Ellipse 679
+  rotate: true
+  xy: 460, 10
+  size: 205, 204
+  orig: 209, 208
+  offset: 2, 2
+  index: -1
+Group 568
+  rotate: true
+  xy: 828, 144
+  size: 71, 66
+  orig: 74, 69
+  offset: 2, 2
+  index: -1
+Group 569
+  rotate: true
+  xy: 755, 22
+  size: 94, 81
+  orig: 97, 85
+  offset: 2, 3
+  index: -1
+Group 570
+  rotate: true
+  xy: 666, 118
+  size: 97, 92
+  orig: 100, 96
+  offset: 2, 3
+  index: -1
+Group 571
+  rotate: true
+  xy: 760, 140
+  size: 75, 66
+  orig: 77, 68
+  offset: 1, 1
+  index: -1
+Group 572
+  rotate: false
+  xy: 666, 28
+  size: 87, 88
+  orig: 89, 90
+  offset: 1, 1
+  index: -1
+bg
+  rotate: true
+  xy: 2, 2
+  size: 213, 456
+  orig: 215, 458
+  offset: 1, 1
+  index: -1

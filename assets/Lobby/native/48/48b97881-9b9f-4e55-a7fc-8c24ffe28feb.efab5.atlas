@@ -1,0 +1,27 @@
+
+RouletteLive.png
+size: 649, 217
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+ball
+  rotate: true
+  xy: 460, 21
+  size: 194, 132
+  orig: 209, 139
+  offset: 12, 2
+  index: -1
+bg-roulive
+  rotate: true
+  xy: 2, 2
+  size: 213, 456
+  orig: 215, 458
+  offset: 1, 1
+  index: -1
+icon-live
+  rotate: true
+  xy: 594, 152
+  size: 63, 53
+  orig: 65, 55
+  offset: 1, 1
+  index: -1

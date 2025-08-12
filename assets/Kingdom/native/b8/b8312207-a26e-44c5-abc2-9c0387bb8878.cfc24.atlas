@@ -1,0 +1,34 @@
+
+fxTree.png
+size: 1402, 1134
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Layer 1
+  rotate: true
+  xy: 2, 2
+  size: 1130, 809
+  orig: 1130, 809
+  offset: 0, 0
+  index: -1
+Light
+  rotate: true
+  xy: 813, 16
+  size: 122, 574
+  orig: 130, 597
+  offset: 8, 23
+  index: -1
+TreeLight
+  rotate: true
+  xy: 1114, 372
+  size: 760, 286
+  orig: 760, 286
+  offset: 0, 0
+  index: -1
+fx_BONUS
+  rotate: true
+  xy: 813, 140
+  size: 992, 299
+  orig: 999, 305
+  offset: 3, 4
+  index: -1
